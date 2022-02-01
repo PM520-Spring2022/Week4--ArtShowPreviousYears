@@ -1,3 +1,3 @@
-# Week3-ArtShowPreviousYears
+# Week4-ArtShowPreviousYears
 
 This shows examples of some of the finest pictures from the last two years...
